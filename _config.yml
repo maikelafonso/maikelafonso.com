@@ -3,7 +3,7 @@ title: "Maikel Afonso"
 email: me@maikelafonso.com
 url: http://www.maikelafonso.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "2D Artist - Texture Artist - Game Designer"
 meta_author: Afonso Maikel
 baseurl: ""
 
@@ -41,14 +41,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/maikelafonso
-  - title: facebook
+  - title: linkedin
     url:
-  - title: stack-overflow
-    url:
-  - title: bitbucket
-    url:
-  - title: github
-    url: http://github.com/maikelafonso
 
 # Postal address (add as many lines as necessary)
 address:
