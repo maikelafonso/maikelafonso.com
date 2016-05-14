@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 3
-date: 2014-07-15
-img: cabin.png
+modal-id: 1
+date: 2014-07-20
+img: favela.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
